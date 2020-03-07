@@ -1,5 +1,5 @@
 // arquivo responsavel pelo config do banco de dados
-
+// requisitando um módulo novo
 //está pegando a promise do nosso node e enviando para o mongoose
 const mongoose = require("mongoose");
 
