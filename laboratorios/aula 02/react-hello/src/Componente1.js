@@ -16,7 +16,7 @@ state = this.initialState
         this.setState(this.initialState);}
 
     componentDidMount (){
-        setTimeout(_=> this.setState({...this.state, nome:'rafael'}),3000)
+        setTimeout(_=> this.setState({...this.state, nome:'Rafael'}),3000)
         setTimeout(_=> this.limpar(),5000);
 
     }
